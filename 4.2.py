@@ -13,8 +13,9 @@ def mahoa(text, k):
     return ctext
 
 # chạy thử
-p = "P"
+p = "NguyenThiMyNhi"
 k = 40
 c = mahoa(p, k)
 print("Ban ro:", p)
 print("Ban ma:", c)
+
